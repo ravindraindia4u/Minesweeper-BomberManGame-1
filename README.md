@@ -1,5 +1,5 @@
 # Minesweeper-BomberManGame-1
-                                                   Minesweeper-BomberManGame-1
+                                                 Minesweeper-BomberManGame-1
 # Rule for the Game.
 You have a 9*9 grid which makes a total of 81 boxes.
 Out of these 81 boxes 10 boxes contain bomb and other boxes are normal.
