@@ -1,0 +1,27 @@
+body{
+    background-color: #F6F6F6;
+}
+h1{
+    color:#1B74BB;
+}
+#congrts{
+    color: #5A9CD2;
+}
+#loss{
+    color: red;
+}
+/*
+#start{
+  width: 120px;
+  text-align: center;
+  margin:0 auto;
+
+}*/
+#start{
+  font-size: 16px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+  background-color: #1B74BB;
+  color: #02060a;
+}
