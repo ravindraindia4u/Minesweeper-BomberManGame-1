@@ -43,7 +43,7 @@ function startGame(){
                         let bombNode = document.getElementById(bomb);
                         bombNode.style.background = "red";
                         bombNode.style.position = "relative";
-                        bombNode.style.top = "-24px";
+                        bombNode.style.top = "-23.5px";
                         bombNode.innerHTML = "💣";
                     }
                     if(score < 71){
